@@ -30,6 +30,7 @@
 #### With slides
 
 - [Functional Programming with Python](http://kachayev.github.io/talks/uapycon2012/#/4), Alexey Kachayev, UA PYCon 2012.
+- [Purely Functional Programming in Python: Pure Fun](https://speakerdeck.com/radix/purely-functional-programming-in-python-pure-fun), Christopher Armstrong, PyTenessee 2015.
 
 #### With video
 
