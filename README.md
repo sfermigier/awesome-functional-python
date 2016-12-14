@@ -9,9 +9,10 @@
 - [Librairies](#librairies)
 - [Languages](#languages)
 
+
 ### Official documentation
 
-- [Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html)
+- [Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html) - "In this document, we’ll take a tour of Python’s features suitable for implementing programs in a functional style".
 
 
 ### Books
