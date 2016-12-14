@@ -46,7 +46,7 @@
 
 #### Blog posts
 
-- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming), by Mary Rose Cook (year unknown).
 
 
 ### Librairies
