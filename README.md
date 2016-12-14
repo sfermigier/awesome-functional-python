@@ -60,5 +60,7 @@
 
 Some languages that enhance somehow Python with more functional programming capabilities.
 
-- [Hy](http://docs.hylang.org/en/latest/) "A dialect of Lisp that’s embedded in Python".
-- [Coconut](http://coconut-lang.org/) "Simple, elegant, Pythonic functional programming".
+- [Hy](http://docs.hylang.org/en/latest/) - "A dialect of Lisp that’s embedded in Python".
+- [Coconut](http://coconut-lang.org/) - "Simple, elegant, Pythonic functional programming".
+- [Mochi](https://github.com/i2y/mochi) - "A dynamically typed programming language for functional programming and actor-style programming.".
+- [Tydy](https://github.com/cyrus-/tydy) - "Tydy is a statically typed, functional-first programming language in the ML tradition. tydy is an implementation of Tydy as a Python library."
