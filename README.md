@@ -38,6 +38,8 @@
 
 - [Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI), Mike Müller, PyCon US 2013.
 - [Functionalish programming in Python with effect](https://www.youtube.com/watch?v=fM5d_2BS6FY), Robert Collins, NZ PyCon 2015.
+- [Functional Performance with Core Data Structures](https://www.youtube.com/watch?v=PpBK4zIaFLE), Matthew Rocklin, PyData SV 2014.
+- [Old School - Functional Data Analysis](https://vimeo.com/80096814), Matthew Rocklin, PyData NYC 2013.
 
 ### Other resources
 
