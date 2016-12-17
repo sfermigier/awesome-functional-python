@@ -34,10 +34,11 @@
 - Purely Functional Programming in Python: Pure Fun ([slides](https://speakerdeck.com/radix/purely-functional-programming-in-python-pure-fun)), Christopher Armstrong, PyTenessee 2015.
 - Functional Programming with Python ([video](https://www.youtube.com/watch?v=Ta1bAMOMFOI)), Mike Müller, PyCon US 2013.
 
-#### Advanced
+#### Advanced or specialized
 
 - Functionalish programming in Python with effect ([video](https://www.youtube.com/watch?v=fM5d_2BS6FY)), Robert Collins, NZ PyCon 2015.
 - Monadic Parsing in Python ([slides](https://speakerdeck.com/kachayev/monadic-parsing-in-python)), Alexey Kachayev, KyivPy 2014.
+- Immutability and Python - Introducing Pyrsistent ([slides](http://slides.com/tobiasgustafsson/immutability-and-python)), Tobias Gustafsson, 2014.
 
 #### Data-science oriented
 
@@ -54,17 +55,27 @@
 #### Blog posts
 
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming), by Mary Rose Cook (year unknown).
+- [Immutable data structures in Python](https://www.theguardian.com/info/developer-blog/2014/oct/21/immutable-data-structures-in-python), Robert Rees, 2014.
 
 
 ### Libraries
+
+#### General
 
 - [toolz](https://github.com/pytoolz/toolz) ★1500 - "A functional standard library for Python".
 - [funcy](https://github.com/suor/funcy/) ★1300 - "A fancy and practical functional tools".
 - [fn.py](https://github.com/kachayev/fn.py) ★2100 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
 - [hask](https://github.com/billpmurphy/hask) ★500 - "Haskell language features and standard libraries in pure Python".
 - [Effect](https://github.com/python-effect/effect) ★200 - "Effect isolation in Python, to facilitate more purely functional code".
-- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★500 - "Persistent/Immutable/Functional data structures for Python". 
+- [Pydash](https://github.com/dgilland/pydash) ★160 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
+- [Underscore.py](https://github.com/serkanyersen/underscore.py) ★220 - "A Python port of excellent javascript library underscore.js".
 
+#### Immutable / persistent data structures
+
+- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★500 - "Persistent/Immutable/Functional data structures for Python". 
+- [Funktown](https://github.com/zhemao/funktown) ★60 - "Immutable Data Structures for Python".
+- [Discodb](https://github.com/discoproject/discodb) ★50 - "An efficient, immutable, persistent mapping object".
+- [Pysistent](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier.".
 
 ### Languages
 
