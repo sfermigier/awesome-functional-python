@@ -69,5 +69,6 @@ Some languages that enhance somehow Python with more functional programming capa
 - [Mochi](https://github.com/i2y/mochi) - "A dynamically typed programming language for functional programming and actor-style programming.".
 - [Tydy](https://github.com/cyrus-/tydy) - "Tydy is a statically typed, functional-first programming language in the ML tradition. tydy is an implementation of Tydy as a Python library."
 - [dg (aka dogelang)](https://pyos.github.io/dg/) - "A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3."
+- [pixie](https://github.com/pixie-lang/pixie) - "A lightweight and native lisp built in RPython".
 
 ([More languages that compile to Python](https://github.com/vindarel/languages-that-compile-to-python))
