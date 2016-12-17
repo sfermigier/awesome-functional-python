@@ -6,7 +6,7 @@
 - [Books](#books)
 - [Talks](#talks)
 - [Other resources](#other-resources)
-- [Librairies](#librairies)
+- [Libraries](#librairies)
 - [Languages](#languages)
 
 
@@ -40,7 +40,7 @@
 - Monadic Parsing in Python ([slides](https://speakerdeck.com/kachayev/monadic-parsing-in-python)), Alexey Kachayev, KyivPy 2014.
 - Immutability and Python - Introducing Pyrsistent ([slides](http://slides.com/tobiasgustafsson/immutability-and-python)), Tobias Gustafsson, 2014.
 
-#### Data-science oriented
+#### Data science oriented
 
 - Functional Performance with Core Data Structures ([video](https://www.youtube.com/watch?v=PpBK4zIaFLE)), Matthew Rocklin, PyData SV 2014.
 - Old School - Functional Data Analysis ([video](https://vimeo.com/80096814)), Matthew Rocklin, PyData NYC 2013.
