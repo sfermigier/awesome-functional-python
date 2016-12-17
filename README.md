@@ -52,7 +52,7 @@
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming), by Mary Rose Cook (year unknown).
 
 
-### Librairies
+### Libraries
 
 - [toolz](https://github.com/pytoolz/toolz) ★1500 - "A functional standard library for Python".
 - [funcy](https://github.com/suor/funcy/) ★1300 - "A fancy and practical functional tools".
