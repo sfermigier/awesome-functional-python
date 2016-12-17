@@ -77,7 +77,7 @@
 - [Pyrsistent](https://github.com/tobgu/pyrsistent) ★500 - "Persistent/Immutable/Functional data structures for Python". 
 - [Funktown](https://github.com/zhemao/funktown) ★60 - "Immutable Data Structures for Python".
 - [Discodb](https://github.com/discoproject/discodb) ★50 - "An efficient, immutable, persistent mapping object".
-- [Pysistent](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier.".
+- [Pysistence](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier.".
 
 ### Languages
 
