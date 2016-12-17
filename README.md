@@ -28,18 +28,22 @@
 
 ### Talks
 
-#### With slides
+#### Introductory
 
-- [Functional Programming with Python](http://kachayev.github.io/talks/uapycon2012/), Alexey Kachayev, UA PYCon 2012.
-- [Purely Functional Programming in Python: Pure Fun](https://speakerdeck.com/radix/purely-functional-programming-in-python-pure-fun), Christopher Armstrong, PyTenessee 2015.
-- [Monadic Parsing in Python](https://speakerdeck.com/kachayev/monadic-parsing-in-python), Alexey Kachayev, KyivPy 2014.
+- Functional Programming with Python ([slides](http://kachayev.github.io/talks/uapycon2012/)), Alexey Kachayev, UA PYCon 2012.
+- Purely Functional Programming in Python: Pure Fun ([slides](https://speakerdeck.com/radix/purely-functional-programming-in-python-pure-fun)), Christopher Armstrong, PyTenessee 2015.
+- Functional Programming with Python ([video](https://www.youtube.com/watch?v=Ta1bAMOMFOI)), Mike Müller, PyCon US 2013.
 
-#### With video
+#### Advanced
 
-- [Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI), Mike Müller, PyCon US 2013.
-- [Functionalish programming in Python with effect](https://www.youtube.com/watch?v=fM5d_2BS6FY), Robert Collins, NZ PyCon 2015.
-- [Functional Performance with Core Data Structures](https://www.youtube.com/watch?v=PpBK4zIaFLE), Matthew Rocklin, PyData SV 2014.
-- [Old School - Functional Data Analysis](https://vimeo.com/80096814), Matthew Rocklin, PyData NYC 2013.
+- Functionalish programming in Python with effect ([video](https://www.youtube.com/watch?v=fM5d_2BS6FY)), Robert Collins, NZ PyCon 2015.
+- Monadic Parsing in Python ([slides](https://speakerdeck.com/kachayev/monadic-parsing-in-python)), Alexey Kachayev, KyivPy 2014.
+
+#### Data-science oriented
+
+- Functional Performance with Core Data Structures ([video](https://www.youtube.com/watch?v=PpBK4zIaFLE)), Matthew Rocklin, PyData SV 2014.
+- Old School - Functional Data Analysis ([video](https://vimeo.com/80096814)), Matthew Rocklin, PyData NYC 2013.
+- Learning Data Science Using Functional Python ([video](https://www.youtube.com/watch?v=ThS4juptJjQ)), Joel Grus, PyData Seattle 2015.
 
 ### Other resources
 
