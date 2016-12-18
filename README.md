@@ -39,6 +39,7 @@
 - Functionalish programming in Python with effect ([video](https://www.youtube.com/watch?v=fM5d_2BS6FY)), Robert Collins, NZ PyCon 2015.
 - Monadic Parsing in Python ([slides](https://speakerdeck.com/kachayev/monadic-parsing-in-python)), Alexey Kachayev, KyivPy 2014.
 - Immutability and Python - Introducing Pyrsistent ([slides](http://slides.com/tobiasgustafsson/immutability-and-python)), Tobias Gustafsson, 2014.
+- Understanding Transducers ([slides](http://www.slideshare.net/alinadolgikh/austin-bingham-transducers-in-python), [video](https://www.youtube.com/watch?v=z_cmmbRQXh4)), Austin Bingham, PyCon Belarus 2015.
 
 #### Data science oriented
 
@@ -56,6 +57,7 @@
 
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming), by Mary Rose Cook (year unknown).
 - [Immutable data structures in Python](https://www.theguardian.com/info/developer-blog/2014/oct/21/immutable-data-structures-in-python), Robert Rees, 2014.
+- [Understanding Transducers through Python](), "In this 8 parts series we take an in-depth look at transducers. Transducers – a portmanteau of ‘transform reducers’ – are a new functional programming concept introduced into the Clojure programming language."
 
 
 ### Libraries
@@ -77,7 +79,12 @@
 - [Pyrsistent](https://github.com/tobgu/pyrsistent) ★500 - "Persistent/Immutable/Functional data structures for Python". 
 - [Funktown](https://github.com/zhemao/funktown) ★60 - "Immutable Data Structures for Python".
 - [Discodb](https://github.com/discoproject/discodb) ★50 - "An efficient, immutable, persistent mapping object".
-- [Pysistence](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier.".
+- [Pysistence](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier".
+
+#### Other specialized
+
+- [Transducers](https://github.com/sixty-north/python-transducers) - "This is a port of the transducer concept from Clojure to Python, with an emphasis on providing as Pythonic as interpretation of transducers as possible, rather than reproducing Clojurisms more literally".
+- [Tranducers-Python](https://github.com/cognitect-labs/transducers-python) - "Transducers are composable algorithmic transformations".
 
 ### Languages
 
