@@ -86,6 +86,7 @@
 - [Transducers](https://github.com/sixty-north/python-transducers) - "This is a port of the transducer concept from Clojure to Python, with an emphasis on providing as Pythonic as interpretation of transducers as possible, rather than reproducing Clojurisms more literally".
 - [Tranducers-Python](https://github.com/cognitect-labs/transducers-python) - "Transducers are composable algorithmic transformations".
 - [RxPy](https://github.com/ReactiveX/RxPY) - "Reactive Extensions for Python".
+- [python-lenses](https://github.com/ingolemo/python-lenses) - "A python lens library for manipulating deeply nested immutable structures".
 
 ### Languages
 
