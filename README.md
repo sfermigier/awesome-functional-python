@@ -24,6 +24,7 @@
 #### Non-free books
 
 - [Functional Python Programming](https://www.packtpub.com/application-development/functional-python-programming), by Steve Lott (Packtpub, 2015)
+- [Python Reactive Programming](https://www.packtpub.com/application-development/python-reactive-programming), by Dag Brattli (Packtpub, 2017 - preorder)
 
 
 ### Talks
@@ -56,9 +57,14 @@
 #### Blog posts
 
 - [Origins of Python's "Functional" Features](http://python-history.blogspot.fr/2009/04/origins-of-pythons-functional-features.html), Guido Van Rossum, 2009.
-- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming), by Mary Rose Cook (year unknown).
+- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) (with examples in Python), by Mary Rose Cook (year unknown).
 - [Immutable data structures in Python](https://www.theguardian.com/info/developer-blog/2014/oct/21/immutable-data-structures-in-python), Robert Rees, 2014.
 - [Understanding Transducers through Python](http://sixty-north.com/blog/series/understanding-transducers-through-python), by Robert Smallshire. "In this 8 parts series we take an in-depth look at transducers. Transducers – a portmanteau of ‘transform reducers’ – are a new functional programming concept introduced into the Clojure programming language."
+
+
+#### Scientific papers
+
+- [Practical Functional Reactive Programming](http://www.cs.jhu.edu/~roe/padl2014.pdf) (PDF), John Peterson, Ken Roe, and Alan Cleary, 2014.
 
 
 ### Libraries
