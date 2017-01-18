@@ -99,7 +99,7 @@
 
 ### Languages
 
-Some languages that enhance somehow Python with more functional programming capabilities.
+Functional programming languages that are not Python but are related to the Python ecosystem:
 
 - [Hy](http://docs.hylang.org/en/latest/) - "A dialect of Lisp that’s embedded in Python".
 - [Coconut](http://coconut-lang.org/) - "Simple, elegant, Pythonic functional programming".
