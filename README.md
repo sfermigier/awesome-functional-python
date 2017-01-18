@@ -108,5 +108,6 @@ Functional programming languages that are not Python but are related to the Pyth
 - [dg (aka dogelang)](https://pyos.github.io/dg/) - "A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3."
 - [pixie](https://github.com/pixie-lang/pixie) - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
 - [Pycket](https://github.com/pycket/pycket) - "A rudimentary Racket implementation using RPython".
+- [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) and [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html) - a couple of famous articles by Peter Norvig.
 
 ([More languages that compile to Python](https://github.com/vindarel/languages-that-compile-to-python))
