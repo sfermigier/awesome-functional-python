@@ -81,7 +81,8 @@
 - [Pydash](https://github.com/dgilland/pydash) ★160 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★220 - "A Python port of excellent javascript library underscore.js".
 - [pyramda](https://github.com/jackfirth/pyramda) ★30 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
-- [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - " a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
+- [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
+- [Amino](https://github.com/tek/amino) - "functional data structures and type classes".
 
 #### Immutable / persistent data structures
 
