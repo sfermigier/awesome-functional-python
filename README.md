@@ -34,6 +34,7 @@
 - Functional Programming with Python ([slides](http://kachayev.github.io/talks/uapycon2012/)), Alexey Kachayev, UA PYCon 2012.
 - Purely Functional Programming in Python: Pure Fun ([slides](https://speakerdeck.com/radix/purely-functional-programming-in-python-pure-fun)), Christopher Armstrong, PyTenessee 2015.
 - Functional Programming with Python ([video](https://www.youtube.com/watch?v=Ta1bAMOMFOI)), Mike Müller, PyCon US 2013.
+- Using Functional Programming for efficient Data Processing and Analysis ([video](https://www.youtube.com/watch?v=9kDUTJahXBM)), Reuben Cummings, PyCon US 2017.
 
 #### Advanced or specialized
 
