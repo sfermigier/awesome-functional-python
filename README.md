@@ -78,6 +78,7 @@
 - [fn.py](https://github.com/kachayev/fn.py) ★2100 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
 - [hask](https://github.com/billpmurphy/hask) ★500 - "Haskell language features and standard libraries in pure Python".
 - [PyFunctional](https://github.com/EntilZha/PyFunctional) ★390 - "Python library for functional programming with collections in a data pipeline style".
+- [more-itertools](https://github.com/erikrose/more-itertools) ★330 - "More routines for operating on iterables, beyond itertools".
 - [Effect](https://github.com/python-effect/effect) ★200 - "Effect isolation in Python, to facilitate more purely functional code".
 - [Pydash](https://github.com/dgilland/pydash) ★160 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★220 - "A Python port of excellent javascript library underscore.js".
