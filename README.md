@@ -108,6 +108,7 @@
 
 Functional programming languages that are not Python but are related to the Python ecosystem:
 
+- [Perl 6](https://github.com/niner/Inline-Python) - "Perl 6 can use Python inline and is mostly a functional language"
 - [Hy](http://docs.hylang.org/en/latest/) - "A dialect of Lisp that’s embedded in Python".
 - [Coconut](http://coconut-lang.org/) - "Simple, elegant, Pythonic functional programming".
 - [Mochi](https://github.com/i2y/mochi) - "A dynamically typed programming language for functional programming and actor-style programming.".
