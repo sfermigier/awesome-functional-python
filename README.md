@@ -68,6 +68,10 @@
 
 - [Practical Functional Reactive Programming](http://www.cs.jhu.edu/~roe/padl2014.pdf) (PDF), John Peterson, Ken Roe, and Alan Cleary, 2014.
 
+#### Presentation slides
+
+- [Python Generators](https://www.slideshare.net/SamuelLampa/py-sthlmmeetup15-pythongenerators), Samuel Lampa, From talk at PySthlm meetup, Oct 2013
+
 
 ### Libraries
 
