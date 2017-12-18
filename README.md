@@ -90,6 +90,7 @@
 - [pyramda](https://github.com/jackfirth/pyramda) ★30 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
 - [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
 - [Amino](https://github.com/tek/amino) - "functional data structures and type classes".
+- [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 
 #### Immutable / persistent data structures
 
