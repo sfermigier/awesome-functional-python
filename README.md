@@ -6,7 +6,7 @@
 - [Books](#books)
 - [Talks](#talks)
 - [Other resources](#other-resources)
-- [Libraries](#librairies)
+- [Libraries](#libraries)
 - [Languages](#languages)
 
 
