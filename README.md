@@ -106,6 +106,7 @@
 - [Tranducers-Python](https://github.com/cognitect-labs/transducers-python) - "Transducers are composable algorithmic transformations".
 - [RxPy](https://github.com/ReactiveX/RxPY) - "Reactive Extensions for Python".
 - [python-lenses](https://github.com/ingolemo/python-lenses) - "A python lens library for manipulating deeply nested immutable structures".
+- [sumtypes](https://github.com/radix/sumtypes/) - "Sum Types, aka Tagged Unions, for Python".
 
 ### Languages
 
