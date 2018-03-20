@@ -24,8 +24,6 @@
 #### Non-free books
 
 - [Functional Python Programming](https://www.packtpub.com/application-development/functional-python-programming), by Steve Lott (Packtpub, 2015)
-- [Python Reactive Programming](https://www.packtpub.com/application-development/python-reactive-programming), by Dag Brattli (Packtpub, 2017 - preorder)
-
 
 ### Talks
 
