@@ -97,6 +97,7 @@
 - [Funktown](https://github.com/zhemao/funktown) ★60 - "Immutable Data Structures for Python".
 - [Discodb](https://github.com/discoproject/discodb) ★50 - "An efficient, immutable, persistent mapping object".
 - [Pysistence](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier".
+- [Immutables](https://github.com/MagicStack/immutables) - "An immutable mapping type for Python."
 
 #### Other / specialized
 
