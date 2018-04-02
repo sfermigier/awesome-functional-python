@@ -105,6 +105,7 @@
 - [RxPy](https://github.com/ReactiveX/RxPY) - "Reactive Extensions for Python".
 - [python-lenses](https://github.com/ingolemo/python-lenses) - "A python lens library for manipulating deeply nested immutable structures".
 - [sumtypes](https://github.com/radix/sumtypes/) - "Sum Types, aka Tagged Unions, for Python".
+- [chainable](https://github.com/olirice/chainable) - "Method chaining built on generators".
 
 ### Languages
 
