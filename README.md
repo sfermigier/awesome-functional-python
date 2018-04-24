@@ -75,19 +75,20 @@
 
 #### General
 
-- [toolz](https://github.com/pytoolz/toolz) ★1500 - "A functional standard library for Python".
-- [funcy](https://github.com/suor/funcy/) ★1300 - "A fancy and practical functional tools".
-- [fn.py](https://github.com/kachayev/fn.py) ★2100 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
-- [hask](https://github.com/billpmurphy/hask) ★500 - "Haskell language features and standard libraries in pure Python".
-- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★390 - "Python library for functional programming with collections in a data pipeline style".
-- [more-itertools](https://github.com/erikrose/more-itertools) ★330 - "More routines for operating on iterables, beyond itertools".
-- [Effect](https://github.com/python-effect/effect) ★200 - "Effect isolation in Python, to facilitate more purely functional code".
+- [fn.py](https://github.com/kachayev/fn.py) ★2600 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
+- [toolz](https://github.com/pytoolz/toolz) ★1700 - "A functional standard library for Python".
+- [funcy](https://github.com/suor/funcy/) ★1700 - "A fancy and practical functional tools".
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1200 - "Python library for functional programming with collections in a data pipeline style".
+- [hask](https://github.com/billpmurphy/hask) ★580 - "Haskell language features and standard libraries in pure Python".
+- [more-itertools](https://github.com/erikrose/more-itertools) ★460 - "More routines for operating on iterables, beyond itertools".
+- [Underscore.py](https://github.com/serkanyersen/underscore.py) ★250 - "A Python port of excellent javascript library underscore.js".
+- [Effect](https://github.com/python-effect/effect) ★240 - "Effect isolation in Python, to facilitate more purely functional code".
+- [OSlash](https://github.com/dbrattli/oslash) ★230 - "Functors, Applicatives, And Monads in Python".
 - [Pydash](https://github.com/dgilland/pydash) ★160 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
-- [OSlash](https://github.com/dbrattli/oslash) ★160 - "Functors, Applicatives, And Monads in Python".
-- [Underscore.py](https://github.com/serkanyersen/underscore.py) ★220 - "A Python port of excellent javascript library underscore.js".
-- [pyramda](https://github.com/jackfirth/pyramda) ★30 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
+- [pyramda](https://github.com/jackfirth/pyramda) ★50 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
 - [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
 - [Amino](https://github.com/tek/amino) - "functional data structures and type classes".
+- [deal](https://github.com/orsinium/deal) - "Design by contract for Python with many validators support."
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [f](https://github.com/suned/f) - "Pure functional programming in python"
 
