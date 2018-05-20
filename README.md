@@ -33,6 +33,7 @@
 - Purely Functional Programming in Python: Pure Fun ([slides](https://speakerdeck.com/radix/purely-functional-programming-in-python-pure-fun)), Christopher Armstrong, PyTenessee 2015.
 - Functional Programming with Python ([video](https://www.youtube.com/watch?v=Ta1bAMOMFOI)), Mike Müller, PyCon US 2013.
 - Using Functional Programming for efficient Data Processing and Analysis ([video](https://www.youtube.com/watch?v=9kDUTJahXBM)), Reuben Cummings, PyCon US 2017.
+- Immutable Programming Writing Functional Python ([slides](https://speakerdeck.com/pycon2017/calen-pennington-immutable-programming-writing-functional-python), [video](https://www.youtube.com/watch?v=_OLEVvjrIj8)), Calen Pennington, PyCon 2017
 
 #### Advanced or specialized
 
