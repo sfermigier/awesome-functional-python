@@ -109,6 +109,7 @@
 - [python-lenses](https://github.com/ingolemo/python-lenses) - "A python lens library for manipulating deeply nested immutable structures".
 - [sumtypes](https://github.com/radix/sumtypes/) - "Sum Types, aka Tagged Unions, for Python".
 - [chainable](https://github.com/olirice/chainable) - "Method chaining built on generators".
+- [broqer](https://github.com/semiversus/python-broqer) - "Library to operate with continuous streams of data in a reactive style"
 
 ### Languages
 
