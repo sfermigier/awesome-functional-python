@@ -110,6 +110,7 @@
 - [sumtypes](https://github.com/radix/sumtypes/) - "Sum Types, aka Tagged Unions, for Python".
 - [chainable](https://github.com/olirice/chainable) - "Method chaining built on generators".
 - [broqer](https://github.com/semiversus/python-broqer) - "Library to operate with continuous streams of data in a reactive style"
+- [python-mini-lambda](https://github.com/smarie/python-mini-lambda/) - "Simple Lambda functions without lambda x: and with string conversion capability"
 
 ### Languages
 
