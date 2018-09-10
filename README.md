@@ -91,7 +91,8 @@
 - [Amino](https://github.com/tek/amino) - "functional data structures and type classes".
 - [deal](https://github.com/orsinium/deal) - "Design by contract for Python with many validators support."
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
-- [f](https://github.com/suned/f) - "Pure functional programming in python"
+- [f](https://github.com/suned/f) - "Pure functional programming in python".
+- [fnc](https://github.com/dgilland/fnc) - "Functional programming in Python with generators and other utilities".
 
 #### Immutable / persistent data structures
 
