@@ -93,7 +93,7 @@
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [f](https://github.com/suned/f) - "Pure functional programming in python".
 - [fnc](https://github.com/dgilland/fnc) - "Functional programming in Python with generators and other utilities".
-- [Phi](https://github.com/cgarciae/phi) - "Phi library for functional programming in Python that intends to remove as much of the pain as possible from your functional programming experience in Python."
+- [Phi](https://github.com/cgarciae/phi) - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
 
 #### Immutable / persistent data structures
 
