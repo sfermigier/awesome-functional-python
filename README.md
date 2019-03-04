@@ -54,6 +54,7 @@
 #### Video lectures
 
 - [Functional Programming with Python](http://shop.oreilly.com/product/0636920042778.do), by Christopher Armstrong, O'Reilly.
+- [Functional Programming in 7 days](https://www.udemy.com/functional-programming-in-7-days/), by Mohammed Kashif, Udemy.
 
 #### Blog posts
 
