@@ -88,6 +88,7 @@
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★250 - "A Python port of excellent javascript library underscore.js".
 - [Effect](https://github.com/python-effect/effect) ★240 - "Effect isolation in Python, to facilitate more purely functional code".
 - [OSlash](https://github.com/dbrattli/oslash) ★230 - "Functors, Applicatives, And Monads in Python".
+- [returns](https://github.com/dry-python/returns) ★165 - "Make your functions return something meaningful, typed, and safe!"
 - [Pydash](https://github.com/dgilland/pydash) ★160 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 - [pyramda](https://github.com/jackfirth/pyramda) ★50 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
 - [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
