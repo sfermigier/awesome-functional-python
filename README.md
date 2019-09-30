@@ -96,9 +96,10 @@
 - [Amino](https://github.com/tek/amino) - "functional data structures and type classes".
 - [deal](https://github.com/orsinium/deal) - "Design by contract for Python with many validators support."
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
-- [f](https://github.com/suned/f) - "Pure functional programming in python".
+- [pfun](https://github.com/suned/pfun) - "Pure functional programming in python".
 - [fnc](https://github.com/dgilland/fnc) - "Functional programming in Python with generators and other utilities".
 - [Phi](https://github.com/cgarciae/phi) - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
+- [unpythonic](https://github.com/Technologicat/unpythonic) - "Supercharge your Python with parts of Lisp and Haskell."
 
 #### Immutable / persistent data structures
 
@@ -118,6 +119,7 @@
 - [chainable](https://github.com/olirice/chainable) - "Method chaining built on generators".
 - [broqer](https://github.com/semiversus/python-broqer) - "Library to operate with continuous streams of data in a reactive style"
 - [python-mini-lambda](https://github.com/smarie/python-mini-lambda/) - "Simple Lambda functions without lambda x: and with string conversion capability"
+- [pampy](https://github.com/santinic/pampy) - "Pampy: The Pattern Matching for Python you always dreamed of.".
 
 ### Languages
 
