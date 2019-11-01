@@ -91,7 +91,7 @@
 - [OSlash](https://github.com/dbrattli/oslash) ★230 - "Functors, Applicatives, And Monads in Python".
 - [returns](https://github.com/dry-python/returns) ★165 - "Make your functions return something meaningful, typed, and safe!"
 - [Pydash](https://github.com/dgilland/pydash) ★160 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
-- [pyramda](https://github.com/jackfirth/pyramda) ★50 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
+- [pyramda](https://github.com/jackfirth/pyramda) ★100 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
 - [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
 - [Amino](https://github.com/tek/amino) - "functional data structures and type classes".
 - [deal](https://github.com/orsinium/deal) - "Design by contract for Python with many validators support."
