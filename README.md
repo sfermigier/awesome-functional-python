@@ -120,6 +120,7 @@
 - [broqer](https://github.com/semiversus/python-broqer) - "Library to operate with continuous streams of data in a reactive style"
 - [python-mini-lambda](https://github.com/smarie/python-mini-lambda/) - "Simple Lambda functions without lambda x: and with string conversion capability"
 - [pampy](https://github.com/santinic/pampy) - "Pampy: The Pattern Matching for Python you always dreamed of.".
+- [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) - "Python pattern matching like functional languages."
 
 ### Languages
 
