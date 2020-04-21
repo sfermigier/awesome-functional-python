@@ -84,11 +84,11 @@
 - [fn.py](https://github.com/kachayev/fn.py) ★2999 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
 - [toolz](https://github.com/pytoolz/toolz) ★2674 - "A functional standard library for Python".
 - [funcy](https://github.com/suor/funcy) ★2289 - "A fancy and practical functional tools".
-- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1650 - "Python library for functional programming with collections in a data pipeline style".
-- [more-itertools](https://github.com/erikrose/more-itertools) ★1328 - "More routines for operating on iterables, beyond itertools".
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1651 - "Python library for functional programming with collections in a data pipeline style".
+- [more-itertools](https://github.com/erikrose/more-itertools) ★1329 - "More routines for operating on iterables, beyond itertools".
 - [hask](https://github.com/billpmurphy/hask) ★634 - "Haskell language features and standard libraries in pure Python".
 - [Pydash](https://github.com/dgilland/pydash) ★601 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
-- [returns](https://github.com/dry-python/returns) ★589 - "Make your functions return something meaningful, typed, and safe!"
+- [returns](https://github.com/dry-python/returns) ★592 - "Make your functions return something meaningful, typed, and safe!"
 - [OSlash](https://github.com/dbrattli/oslash) ★488 - "Functors, Applicatives, And Monads in Python".
 - [Effect](https://github.com/python-effect/effect) ★309 - "Effect isolation in Python, to facilitate more purely functional code".
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★270 - "A Python port of excellent javascript library underscore.js".
@@ -111,8 +111,8 @@
 
 #### Pattern matching
 
-- [pampy](https://github.com/santinic/pampy) ★3168 - "Pampy: The Pattern Matching for Python you always dreamed of."
-- [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ★145 - "Python pattern matching like functional languages."
+- [pampy](https://github.com/santinic/pampy) ★3169 - "Pampy: The Pattern Matching for Python you always dreamed of."
+- [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ★146 - "Python pattern matching like functional languages."
 
 #### Tranducers
 
@@ -141,7 +141,7 @@ Functional programming languages that are not Python but are related to the Pyth
 - [Mochi](https://github.com/i2y/mochi) ★904 - "A dynamically typed programming language for functional programming and actor-style programming.".
 - [Tydy](https://github.com/cyrus-/tydy) ★45 - "Tydy is a statically typed, functional-first programming language in the ML tradition. tydy is an implementation of Tydy as a Python library."
 - [dg (aka dogelang)](https://pyos.github.io/dg/) - "A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3."
-- [pixie](https://github.com/pixie-lang/pixie) ★2236 - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
+- [pixie](https://github.com/pixie-lang/pixie) ★2237 - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
 - [Pycket](https://github.com/pycket/pycket) ★200 - "A rudimentary Racket implementation using RPython".
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) and [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html) - a couple of famous articles by Peter Norvig.
 
