@@ -113,6 +113,7 @@
 
 - [pampy](https://github.com/santinic/pampy) ★3176 - "Pampy: The Pattern Matching for Python you always dreamed of."
 - [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ★147 - "Python pattern matching like functional languages."
+- [patmat](https://github.com/admk/patmat) ★30 - "Functional-style recursive pattern matching in Python. Crazy stuff."
 
 #### Tranducers
 
