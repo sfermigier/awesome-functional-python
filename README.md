@@ -67,6 +67,7 @@
 - [Python exceptions considered an anti-pattern](https://sobolevn.me/2019/02/python-exceptions-considered-an-antipattern), Nikita Sobolev, 2019.
 - [Enforcing Single Responsibility Principle in Python](https://sobolevn.me/2019/03/enforcing-srp) - Nikita Sobolev, 2019.
 - [Typed functional Dependency Injection in Python](https://sobolevn.me/2020/02/typed-functional-dependency-injection) - Nikita Sobolev, 2020.
+- [4 Part Series on Functional Programming Techniques and Design In Python](https://mpkocher.github.io/2019/03/01/Functional-Programming-Techniques-In-Python-Series/) M. Kocher, 2019.
 
 #### Scientific papers
 
