@@ -2,6 +2,9 @@
 
 > A curated list of awesome things related to functional programming in Python.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
 - [Official documentation](#official-documentation)
 - [Books](#books)
 - [Talks](#talks)
