@@ -22,21 +22,21 @@
 
 #### Free books / ebooks
 
-- [Functional Programming in Python](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf) by David Mertz (O'Reilly)
+- [Functional Programming in Python](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf) - Book by David Mertz (O'Reilly).
 
 #### Non-free books
 
-- [Functional Python Programming](https://www.packtpub.com/application-development/functional-python-programming), by Steve Lott (Packtpub, 2015)
+- [Functional Python Programming](https://www.packtpub.com/application-development/functional-python-programming) - Book by Steve Lott (Packtpub, 2015).
 
 ### Talks
 
 #### Introductory
 
-- Functional Programming with Python ([slides](http://kachayev.github.io/talks/uapycon2012/)), Alexey Kachayev, UA PYCon 2012.
-- Purely Functional Programming in Python: Pure Fun ([slides](https://speakerdeck.com/radix/purely-functional-programming-in-python-pure-fun)), Christopher Armstrong, PyTenessee 2015.
-- Side Effects are a Public API ([video](https://www.youtube.com/watch?v=D37dc9EoFus)), Christopher Armstrong, Strangeloop 2015
-- Functional Programming with Python ([video](https://www.youtube.com/watch?v=Ta1bAMOMFOI)), Mike Müller, PyCon US 2013.
-- Using Functional Programming for efficient Data Processing and Analysis ([video](https://www.youtube.com/watch?v=9kDUTJahXBM)), Reuben Cummings, PyCon US 2017.
+- Functional Programming with Python ([slides](http://kachayev.github.io/talks/uapycon2012/)) - Alexey Kachayev, UA PYCon 2012.
+- Purely Functional Programming in Python: Pure Fun ([slides](https://speakerdeck.com/radix/purely-functional-programming-in-python-pure-fun)) - Christopher Armstrong, PyTenessee 2015.
+- Side Effects are a Public API ([video](https://www.youtube.com/watch?v=D37dc9EoFus)) - Christopher Armstrong, Strangeloop 2015
+- Functional Programming with Python ([video](https://www.youtube.com/watch?v=Ta1bAMOMFOI)) - Mike Müller, PyCon US 2013.
+- Using Functional Programming for efficient Data Processing and Analysis ([video](https://www.youtube.com/watch?v=9kDUTJahXBM)) - Reuben Cummings, PyCon US 2017.
 - Immutable Programming Writing Functional Python ([slides](https://speakerdeck.com/pycon2017/calen-pennington-immutable-programming-writing-functional-python), [video](https://www.youtube.com/watch?v=_OLEVvjrIj8)), Calen Pennington, PyCon 2017
 
 #### Advanced or specialized
@@ -56,8 +56,8 @@
 
 #### Video lectures
 
-- [Functional Programming with Python](http://shop.oreilly.com/product/0636920042778.do), by Christopher Armstrong, O'Reilly.
-- [Functional Programming in 7 days](https://www.udemy.com/functional-programming-in-7-days/), by Mohammed Kashif, Udemy.
+- [Functional Programming with Python](http://shop.oreilly.com/product/0636920042778.do) - by Christopher Armstrong, O'Reilly.
+- [Functional Programming in 7 days](https://www.udemy.com/functional-programming-in-7-days/) - by Mohammed Kashif, Udemy.
 
 #### Blog posts
 
@@ -86,13 +86,13 @@
 #### General
 
 - [fn.py](https://github.com/kachayev/fn.py) ★3054 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
-- [toolz](https://github.com/pytoolz/toolz) ★2978 - "A functional standard library for Python".
+- [toolz](https://github.com/pytoolz/toolz) ★2979 - "A functional standard library for Python".
 - [funcy](https://github.com/suor/funcy) ★2399 - "A fancy and practical functional tools".
-- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1740 - "Python library for functional programming with collections in a data pipeline style".
-- [more-itertools](https://github.com/erikrose/more-itertools) ★1662 - "More routines for operating on iterables, beyond itertools".
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1741 - "Python library for functional programming with collections in a data pipeline style".
+- [more-itertools](https://github.com/erikrose/more-itertools) ★1664 - "More routines for operating on iterables, beyond itertools".
 - [hask](https://github.com/billpmurphy/hask) ★825 - "Haskell language features and standard libraries in pure Python".
 - [Pydash](https://github.com/dgilland/pydash) ★688 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
-- [returns](https://github.com/dry-python/returns) ★1484 - "Make your functions return something meaningful, typed, and safe!"
+- [returns](https://github.com/dry-python/returns) ★1487 - "Make your functions return something meaningful, typed, and safe!"
 - [OSlash](https://github.com/dbrattli/oslash) ★539 - "Functors, Applicatives, And Monads in Python".
 - [Effect](https://github.com/python-effect/effect) ★319 - "Effect isolation in Python, to facilitate more purely functional code".
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★275 - "A Python port of excellent javascript library underscore.js".
@@ -106,8 +106,8 @@
 
 #### Immutable / persistent data structures
 
-- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★1455 - "Persistent/Immutable/Functional data structures for Python".
-- [Immutables](https://github.com/MagicStack/immutables) ★756 - "An immutable mapping type for Python."
+- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★1456 - "Persistent/Immutable/Functional data structures for Python".
+- [Immutables](https://github.com/MagicStack/immutables) ★757 - "An immutable mapping type for Python."
 - [Discodb](https://github.com/discoproject/discodb) ★91 - "An efficient, immutable, persistent mapping object".
 - [Funktown](https://github.com/zhemao/funktown) ★75 - "Immutable Data Structures for Python".
 - [Amino](https://github.com/tek/amino) ★31 - "functional data structures and type classes".
@@ -115,7 +115,7 @@
 
 #### Pattern matching
 
-- [pampy](https://github.com/santinic/pampy) ★3298 - "Pampy: The Pattern Matching for Python you always dreamed of."
+- [pampy](https://github.com/santinic/pampy) ★3299 - "Pampy: The Pattern Matching for Python you always dreamed of."
 - [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ★151 - "Python pattern matching like functional languages."
 - [patmat](https://github.com/admk/patmat) ★31 - "Functional-style recursive pattern matching in Python. Crazy stuff."
 
@@ -126,7 +126,7 @@
 
 #### Support for reactive style
 
-- [RxPy](https://github.com/ReactiveX/RxPY) ★3706 - "Reactive Extensions for Python".
+- [RxPy](https://github.com/ReactiveX/RxPY) ★3707 - "Reactive Extensions for Python".
 - [broqer](https://github.com/semiversus/python-broqer) ★61 - "Library to operate with continuous streams of data in a reactive style"
 
 #### Other / specialized
@@ -142,12 +142,12 @@
 
 Functional programming languages that are not Python but are related to the Python ecosystem:
 
-- [Hy](http://hylang.org/) - "A dialect of Lisp that’s embedded in Python".
+- [Hy](http://hylang.org/) - "A dialect of Lisp that's embedded in Python".
 - [Coconut](http://coconut-lang.org/) - "Simple, elegant, Pythonic functional programming".
 - [Mochi](https://github.com/i2y/mochi) ★902 - "A dynamically typed programming language for functional programming and actor-style programming.".
 - [Tydy](https://github.com/cyrus-/tydy) ★46 - "Tydy is a statically typed, functional-first programming language in the ML tradition. tydy is an implementation of Tydy as a Python library."
 - [dg (aka dogelang)](https://pyos.github.io/dg/) - "A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3."
-- [pixie](https://github.com/pixie-lang/pixie) ★2265 - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
+- [pixie](https://github.com/pixie-lang/pixie) ★2266 - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
 - [Pycket](https://github.com/pycket/pycket) ★211 - "A rudimentary Racket implementation using RPython".
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) and [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html) - a couple of famous articles by Peter Norvig.
 
