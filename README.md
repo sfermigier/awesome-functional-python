@@ -85,15 +85,15 @@
 
 #### General
 
-- [fn.py](https://github.com/kachayev/fn.py) ★3054 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
-- [toolz](https://github.com/pytoolz/toolz) ★2979 - "A functional standard library for Python".
-- [funcy](https://github.com/suor/funcy) ★2399 - "A fancy and practical functional tools".
-- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1741 - "Python library for functional programming with collections in a data pipeline style".
-- [more-itertools](https://github.com/erikrose/more-itertools) ★1664 - "More routines for operating on iterables, beyond itertools".
+- [fn.py](https://github.com/kachayev/fn.py) ★3056 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
+- [toolz](https://github.com/pytoolz/toolz) ★2982 - "A functional standard library for Python".
+- [funcy](https://github.com/suor/funcy) ★2404 - "A fancy and practical functional tools".
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1743 - "Python library for functional programming with collections in a data pipeline style".
+- [more-itertools](https://github.com/erikrose/more-itertools) ★1672 - "More routines for operating on iterables, beyond itertools".
 - [hask](https://github.com/billpmurphy/hask) ★825 - "Haskell language features and standard libraries in pure Python".
-- [Pydash](https://github.com/dgilland/pydash) ★688 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
-- [returns](https://github.com/dry-python/returns) ★1487 - "Make your functions return something meaningful, typed, and safe!"
-- [OSlash](https://github.com/dbrattli/oslash) ★539 - "Functors, Applicatives, And Monads in Python".
+- [Pydash](https://github.com/dgilland/pydash) ★693 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
+- [returns](https://github.com/dry-python/returns) ★1493 - "Make your functions return something meaningful, typed, and safe!"
+- [OSlash](https://github.com/dbrattli/oslash) ★540 - "Functors, Applicatives, And Monads in Python".
 - [Effect](https://github.com/python-effect/effect) ★319 - "Effect isolation in Python, to facilitate more purely functional code".
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★275 - "A Python port of excellent javascript library underscore.js".
 - [Phi](https://github.com/cgarciae/phi) ★114 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
@@ -101,21 +101,21 @@
 - [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★26 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [pfun](https://github.com/suned/pfun) ★67 - "Pure functional programming in python".
-- [fnc](https://github.com/dgilland/fnc) ★73 - "Functional programming in Python with generators and other utilities".
+- [fnc](https://github.com/dgilland/fnc) ★74 - "Functional programming in Python with generators and other utilities".
 - [unpythonic](https://github.com/Technologicat/unpythonic) ★25 - "Supercharge your Python with parts of Lisp and Haskell."
 
 #### Immutable / persistent data structures
 
-- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★1456 - "Persistent/Immutable/Functional data structures for Python".
-- [Immutables](https://github.com/MagicStack/immutables) ★757 - "An immutable mapping type for Python."
-- [Discodb](https://github.com/discoproject/discodb) ★91 - "An efficient, immutable, persistent mapping object".
+- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★1458 - "Persistent/Immutable/Functional data structures for Python".
+- [Immutables](https://github.com/MagicStack/immutables) ★761 - "An immutable mapping type for Python."
+- [Discodb](https://github.com/discoproject/discodb) ★92 - "An efficient, immutable, persistent mapping object".
 - [Funktown](https://github.com/zhemao/funktown) ★75 - "Immutable Data Structures for Python".
 - [Amino](https://github.com/tek/amino) ★31 - "functional data structures and type classes".
 - [Pysistence](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier".
 
 #### Pattern matching
 
-- [pampy](https://github.com/santinic/pampy) ★3299 - "Pampy: The Pattern Matching for Python you always dreamed of."
+- [pampy](https://github.com/santinic/pampy) ★3302 - "Pampy: The Pattern Matching for Python you always dreamed of."
 - [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ★151 - "Python pattern matching like functional languages."
 - [patmat](https://github.com/admk/patmat) ★31 - "Functional-style recursive pattern matching in Python. Crazy stuff."
 
@@ -126,15 +126,15 @@
 
 #### Support for reactive style
 
-- [RxPy](https://github.com/ReactiveX/RxPY) ★3707 - "Reactive Extensions for Python".
+- [RxPy](https://github.com/ReactiveX/RxPY) ★3706 - "Reactive Extensions for Python".
 - [broqer](https://github.com/semiversus/python-broqer) ★61 - "Library to operate with continuous streams of data in a reactive style"
 
 #### Other / specialized
 
-- [chainable](https://github.com/olirice/chainable) ★149 - "Method chaining built on generators".
+- [chainable](https://github.com/olirice/chainable) ★150 - "Method chaining built on generators".
 - [python-lenses](https://github.com/ingolemo/python-lenses) ★161 - "A python lens library for manipulating deeply nested immutable structures".
 - [ADT](https://github.com/jspahrsummers/adt) ★110 - Algebraic data types for Python
-- [deal](https://github.com/orsinium/deal) ★109 - "Design by contract for Python with many validators support."
+- [deal](https://github.com/orsinium/deal) ★111 - "Design by contract for Python with many validators support."
 - [sumtypes](https://github.com/radix/sumtypes) ★33 - "Sum Types, aka Tagged Unions, for Python".
 - [python-mini-lambda](https://github.com/smarie/python-mini-lambda) ★6 - "Simple Lambda functions without lambda x: and with string conversion capability"
 
