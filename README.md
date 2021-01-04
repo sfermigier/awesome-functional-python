@@ -148,7 +148,7 @@ Functional programming languages that are not Python but are related to the Pyth
 - [Mochi ★905](https://github.com/i2y/mochi) - "A dynamically typed programming language for functional programming and actor-style programming.".
 - [Tydy ★47](https://github.com/cyrus-/tydy) - "Tydy is a statically typed, functional-first programming language in the ML tradition. tydy is an implementation of Tydy as a Python library."
 - [dg (aka dogelang)](https://pyos.github.io/dg/) - "A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3."
-[pixie ★2270](https://github.com/pixie-lang/pixie) - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
+- [pixie ★2270](https://github.com/pixie-lang/pixie) - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
 - [Pycket ★213](https://github.com/pycket/pycket) - "A rudimentary Racket implementation using RPython".
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) and [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html) - a couple of famous articles by Peter Norvig.
 
