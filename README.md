@@ -101,6 +101,7 @@
 - [pyramda](https://github.com/jackfirth/pyramda) ★116 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
 - [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★27 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
+- [ziopy](https://github.com/miiohio/ziopy) ★24 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 - [pfun](https://github.com/suned/pfun) ★76 - "Pure functional programming in python".
 - [fnc](https://github.com/dgilland/fnc) ★95 - "Functional programming in Python with generators and other utilities".
 - [unpythonic](https://github.com/Technologicat/unpythonic) ★30 - "Supercharge your Python with parts of Lisp and Haskell."
