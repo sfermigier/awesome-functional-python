@@ -54,10 +54,11 @@
 
 ### Other resources
 
-#### Video lectures
+#### Video lectures (not free)
 
 - [Functional Programming with Python](http://shop.oreilly.com/product/0636920042778.do) - by Christopher Armstrong, O'Reilly.
 - [Functional Programming in 7 days](https://www.udemy.com/functional-programming-in-7-days/) - by Mohammed Kashif, Udemy.
+- [Functional Programming in Python](https://realpython.com/courses/functional-programming-python/) - by Dan Bader, Real Python.
 
 #### Blog posts
 
