@@ -133,9 +133,13 @@
 - [RxPy](https://github.com/ReactiveX/RxPY) ★3840 - "Reactive Extensions for Python".
 - [broqer](https://github.com/semiversus/python-broqer) ★63 - "Library to operate with continuous streams of data in a reactive style"
 
-#### Other / specialized
+#### Lenses and declarative data manipulations
 
 - [python-lenses](https://github.com/ingolemo/python-lenses) ★182 - "A python lens library for manipulating deeply nested immutable structures".
+- [Glom](https://github.com/mahmoud/glom) - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
+
+#### Other / specialized
+
 - [chainable](https://github.com/olirice/chainable) ★153 - "Method chaining built on generators".
 - [deal](https://github.com/orsinium/deal) ★166 - "Design by contract for Python with many validators support."
 - [ADT](https://github.com/jspahrsummers/adt) ★120 - Algebraic data types for Python
