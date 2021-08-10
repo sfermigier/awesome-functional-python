@@ -97,7 +97,7 @@
 - [funcy](https://github.com/suor/funcy) ★2608 - "A fancy and practical functional tools".
 - [more-itertools](https://github.com/erikrose/more-itertools) ★2043 - "More routines for operating on iterables, beyond itertools".
 - [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1886 - "Python library for functional programming with collections in a data pipeline style".
-- [returns](https://github.com/dry-python/returns) ★1792 - "Make your functions return something meaningful, typed, and safe!"
+
 - [hask](https://github.com/billpmurphy/hask) ★825 - "Haskell language features and standard libraries in pure Python".
 - [Pydash](https://github.com/dgilland/pydash) ★812 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 - [Expression](https://github.com/cognitedata/Expression) ★120 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
@@ -113,6 +113,15 @@
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★28 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [unpythonic](https://github.com/Technologicat/unpythonic) ★42 - "Supercharge your Python with parts of Lisp and Haskell."
 - [ziopy](https://github.com/miiohio/ziopy) ★34 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
+
+
+#### Return types
+
+- [returns](https://github.com/dry-python/returns) ★1792 - "Make your functions return something meaningful, typed, and safe!"
+- [Option](https://github.com/MaT1g3R/option) ★13 - Rust-like Option and Result types in Python.
+- [Meiga](https://github.com/alice-biometrics/meiga) ★14 -  A simple, typed and monad-based Result type for Python.
+- [Safetywrap](https://github.com/mplanchard/safetywrap) ★21 - Fully typesafe, Rust-like Result and Option types for Python.
+
 
 #### Immutable / persistent data structures
 
