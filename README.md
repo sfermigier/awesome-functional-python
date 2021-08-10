@@ -28,6 +28,7 @@
 
 - [Functional Python Programming](https://www.packtpub.com/application-development/functional-python-programming) - Book by Steve Lott (Packtpub, 2015).
 
+
 ### Talks
 
 #### Introductory
@@ -37,7 +38,9 @@
 - Side Effects are a Public API ([video](https://www.youtube.com/watch?v=D37dc9EoFus)) - Christopher Armstrong, Strangeloop 2015
 - Functional Programming with Python ([video](https://www.youtube.com/watch?v=Ta1bAMOMFOI)) - Mike Müller, PyCon US 2013.
 - Using Functional Programming for efficient Data Processing and Analysis ([video](https://www.youtube.com/watch?v=9kDUTJahXBM)) - Reuben Cummings, PyCon US 2017.
-- Immutable Programming Writing Functional Python ([slides](https://speakerdeck.com/pycon2017/calen-pennington-immutable-programming-writing-functional-python), [video](https://www.youtube.com/watch?v=_OLEVvjrIj8)), Calen Pennington, PyCon 2017
+- Immutable Programming Writing Functional Python ([slides](https://speakerdeck.com/pycon2017/calen-pennington-immutable-programming-writing-functional-python), [video](https://www.youtube.com/watch?v=_OLEVvjrIj8)), Calen Pennington, PyCon 2017.
+- Functional Programming inside OOP? It’s possible with Python ([Slides](https://ep2021.europython.eu/media/conference/slides/5SQrJC4-functional-programming-inside-oop-its-possible-with-python.pdf)) - Carlos Villavicencio, EuroPython 2021.
+- A Hitchhiker’s Guide to functools ([Slides](https://ep2021.europython.eu/media/conference/slides/a-hitchhikers-guide-to-functools.pdf)) - Scott Irwin, EuroPython 2021.
 
 #### Advanced or specialized
 
@@ -84,6 +87,7 @@
 - [Python Generators](https://www.slideshare.net/SamuelLampa/py-sthlmmeetup15-pythongenerators), Samuel Lampa, From talk at PySthlm meetup, Oct 2013
 
 
+
 ### Libraries
 
 #### General
@@ -99,16 +103,16 @@
 - [Expression](https://github.com/cognitedata/Expression) ★120 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
 - [OSlash](https://github.com/dbrattli/oslash) ★591 - "Functors, Applicatives, And Monads in Python".
 - [Effect](https://github.com/python-effect/effect) ★329 - "Effect isolation in Python, to facilitate more purely functional code".
-- [Underscore.py](https://github.com/serkanyersen/underscore.py) ★277 - "A Python port of excellent javascript library underscore.js".
 - [result](https://github.com/dbrgn/result) ★280 - A simple Rust like Result type for Python 3. Fully type annotated.
-- [Phi](https://github.com/cgarciae/phi) ★119 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
+- [Underscore.py](https://github.com/serkanyersen/underscore.py) ★277 - "A Python port of excellent javascript library underscore.js".
 - [pyramda](https://github.com/jackfirth/pyramda) ★120 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
+- [Phi](https://github.com/cgarciae/phi) ★119 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
+- [fnc](https://github.com/dgilland/fnc) ★118 - "Functional programming in Python with generators and other utilities".
+- [pfun](https://github.com/suned/pfun) ★101 - "Pure functional programming in python".
 - [PyMonad](https://bitbucket.org/jason_delaat/pymonad) - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★28 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
-- [ziopy](https://github.com/miiohio/ziopy) ★34 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
-- [pfun](https://github.com/suned/pfun) ★101 - "Pure functional programming in python".
-- [fnc](https://github.com/dgilland/fnc) ★118 - "Functional programming in Python with generators and other utilities".
 - [unpythonic](https://github.com/Technologicat/unpythonic) ★42 - "Supercharge your Python with parts of Lisp and Haskell."
+- [ziopy](https://github.com/miiohio/ziopy) ★34 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 
 #### Immutable / persistent data structures
 
@@ -120,6 +124,8 @@
 - [Pysistence](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier".
 
 #### Pattern matching
+
+(Pattern matching is now a standard feature in [Python 3.10](https://www.python.org/dev/peps/pep-0636/)).
 
 - [pampy](https://github.com/santinic/pampy) ★3396 - "Pampy: The Pattern Matching for Python you always dreamed of."
 - [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ★155 - "Python pattern matching like functional languages."
@@ -138,13 +144,13 @@
 
 #### Lenses and declarative data manipulations
 
-- [python-lenses](https://github.com/ingolemo/python-lenses) ★199 - "A python lens library for manipulating deeply nested immutable structures".
 - [Glom](https://github.com/mahmoud/glom) ★1396 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
+- [python-lenses](https://github.com/ingolemo/python-lenses) ★199 - "A python lens library for manipulating deeply nested immutable structures".
 
 #### Other / specialized
 
-- [chainable](https://github.com/olirice/chainable) ★159 - "Method chaining built on generators".
 - [deal](https://github.com/orsinium/deal) ★207 - "Design by contract for Python with many validators support."
+- [chainable](https://github.com/olirice/chainable) ★159 - "Method chaining built on generators".
 - [ADT](https://github.com/jspahrsummers/adt) ★133 - Algebraic data types for Python
 - [sumtypes](https://github.com/radix/sumtypes) ★33 - "Sum Types, aka Tagged Unions, for Python".
 - [python-mini-lambda](https://github.com/smarie/python-mini-lambda) ★9 - "Simple Lambda functions without lambda x: and with string conversion capability"
