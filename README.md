@@ -93,7 +93,7 @@
 #### General
 
 - [toolz](https://github.com/pytoolz/toolz) ★3752 - "A functional standard library for Python".
-- [fn.py](https://github.com/kachayev/fn.py) ★3163 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014).
+- [fn.py](https://github.com/kachayev/fn.py) ★3163 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Maintained fork](https://github.com/fnpy/fn.py).
 - [funcy](https://github.com/suor/funcy) ★2689 - "A fancy and practical functional tools".
 - [more-itertools](https://github.com/erikrose/more-itertools) ★2244 - "More routines for operating on iterables, beyond itertools".
 - [PyFunctional](https://github.com/EntilZha/PyFunctional) ★1941 - "Python library for functional programming with collections in a data pipeline style".
