@@ -75,6 +75,7 @@
 - [Enforcing Single Responsibility Principle in Python](https://sobolevn.me/2019/03/enforcing-srp) - Nikita Sobolev, 2019.
 - [Typed functional Dependency Injection in Python](https://sobolevn.me/2020/02/typed-functional-dependency-injection) - Nikita Sobolev, 2020.
 - [4 Part Series on Functional Programming Techniques and Design In Python](https://mpkocher.github.io/2019/03/01/Functional-Programming-Techniques-In-Python-Series/) M. Kocher, 2019.
+- [Applications of Python](https://www.scaler.com/topics/python/applications-of-python/), Shubh Agrawal, 2021
 - [Typeclasses in Python](https://sobolevn.me/2021/06/typeclasses-in-python) - N. Sobolev, 2021
 - [Functools — The Power of Higher-Order Functions in Python](https://towardsdatascience.com/functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4) - M. Heinz, 2021
 
