@@ -115,6 +115,7 @@
 - [unpythonic](https://github.com/Technologicat/unpythonic) ★55 - "Supercharge your Python with parts of Lisp and Haskell."
 - [ziopy](https://github.com/miiohio/ziopy) ★54 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 - [pyeffects](https://github.com/vickumar1981/pyeffects) ★16 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
+- [Pipe](https://github.com/JulienPalard/Pipe) *1515 - "A Python library to use infix notation in Python".
 
 
 #### Return types
