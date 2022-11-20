@@ -78,6 +78,9 @@
 - [4 Part Series on Functional Programming Techniques and Design In Python](https://mpkocher.github.io/2019/03/01/Functional-Programming-Techniques-In-Python-Series/) M. Kocher, 2019.
 - [Typeclasses in Python](https://sobolevn.me/2021/06/typeclasses-in-python) - N. Sobolev, 2021
 - [Functools — The Power of Higher-Order Functions in Python](https://towardsdatascience.com/functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4) - M. Heinz, 2021
+- [Tail Recursion Elimination](http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html) - Guido van Rossum, 2009
+- [Final Words on Tail Calls](http://neopythonic.blogspot.com/2009/04/final-words-on-tail-calls.html) - Guido van Rossum, 2009
+- [The fate of reduce() in Python 3000](https://www.artima.com/weblogs/viewpost.jsp?thread=98196) - Guido van Rossum, 2005
 
 #### Scientific papers
 
