@@ -58,6 +58,9 @@
 
 ### Other resources
 
+### Project Ideas
+- [CodeCrafters](https://app.codecrafters.io/tracks?r=6wr) — recreate complex technologies (e.g Git, Redis, Docker, etc) from scratch in Python
+
 #### Video lectures (not free)
 
 - [Functional Programming with Python](http://shop.oreilly.com/product/0636920042778.do) - by Christopher Armstrong, O'Reilly.
