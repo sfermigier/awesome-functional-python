@@ -171,6 +171,7 @@ Note: Pattern matching is now a standard feature in [Python 3.10](https://www.py
 - [chainable](https://github.com/olirice/chainable) ★179 - "Method chaining built on generators".
 - [ADT](https://github.com/jspahrsummers/adt) ★165 - Algebraic data types for Python
 - [sumtypes](https://github.com/radix/sumtypes) ★42 - "Sum Types, aka Tagged Unions, for Python".
+- [py-frm](https://github.com/phelps-sg/py-frm) *1 - "Proof-of-concept Functional-Relational Mapping (FRM) for Python"
 - [python-mini-lambda](https://github.com/smarie/python-mini-lambda) ★13 - "Simple Lambda functions without lambda x: and with string conversion capability"
 - [Orinoco](https://github.com/paysure/orinoco) ★11 - "Functional composable pipelines allowing clean separation of the business logic and its implementation"
 - [slist](https://github.com/thejaminator/slist) ★10 *5 - "A drop-in replacement for the python mutable list. But with much more methods for typesafe method chaining."
