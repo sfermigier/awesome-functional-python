@@ -101,17 +101,18 @@
 
 - [toolz](https://github.com/pytoolz/toolz) ★4419 - "A functional standard library for Python".
 - [fn.py](https://github.com/kachayev/fn.py) ★3317 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Maintained fork](https://github.com/fnpy/fn.py).
-- [more-itertools](https://github.com/erikrose/more-itertools) ★3302 - "More routines for operating on iterables, beyond itertools".
-- [funcy](https://github.com/suor/funcy) ★3195 - "A fancy and practical functional tools".
-- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★2271 - "Python library for functional programming with collections in a data pipeline style".
-- [Pipe](https://github.com/JulienPalard/Pipe) ★1794 - "A Python library to use infix notation in Python".
+- [more-itertools](https://github.com/erikrose/more-itertools) ★3305 - "More routines for operating on iterables, beyond itertools".
+- [funcy](https://github.com/suor/funcy) ★3201 - "A fancy and practical functional tools".
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★2272 - "Python library for functional programming with collections in a data pipeline style".
+- [Pipe](https://github.com/JulienPalard/Pipe) ★1795 - "A Python library to use infix notation in Python".
 - [Pydash](https://github.com/dgilland/pydash) ★1207 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 - [hask](https://github.com/billpmurphy/hask) ★849 - "Haskell language features and standard libraries in pure Python".
 - [OSlash](https://github.com/dbrattli/oslash) ★699 - "Functors, Applicatives, And Monads in Python".
 - [Effect](https://github.com/python-effect/effect) ★363 - "Effect isolation in Python, to facilitate more purely functional code".
-- [Expression](https://github.com/cognitedata/Expression) ★352 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
+- [Expression](https://github.com/cognitedata/Expression) ★353 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★291 - "A Python port of excellent javascript library underscore.js".
 - [fnc](https://github.com/dgilland/fnc) ★218 - "Functional programming in Python with generators and other utilities".
+- [Flupy](https://github.com/olirice/flupy) ★178 - Implements a fluent interface for operating on python iterables.
 - [pfun](https://github.com/suned/pfun) ★142 - "Pure functional programming in python".
 - [Phi](https://github.com/cgarciae/phi) ★130 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
 - [pyramda](https://github.com/jackfirth/pyramda) ★126 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
@@ -120,13 +121,12 @@
 - [ziopy](https://github.com/miiohio/ziopy) ★69 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★34 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [pyeffects](https://github.com/vickumar1981/pyeffects) ★25 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
-- [Iter](https://github.com/MartinBernstorff/Iter) - map, filter etc. as methods on a sequence.
-- [Flupy](https://github.com/olirice/flupy) - Implements a fluent interface for operating on python iterables.
+- [Iter](https://github.com/MartinBernstorff/Iter) ★4 - map, filter etc. as methods on a sequence.
 
 
 #### Return types
 
-- [returns](https://github.com/dry-python/returns) ★3052 - "Make your functions return something meaningful, typed, and safe!"
+- [returns](https://github.com/dry-python/returns) ★3053 - "Make your functions return something meaningful, typed, and safe!"
 - [result](https://github.com/dbrgn/result) ★1189 - A simple Rust like Result type for Python 3. Fully type annotated.
 - [Option](https://github.com/MaT1g3R/option) ★71 - Rust-like Option and Result types in Python.
 - [Meiga](https://github.com/alice-biometrics/meiga) ★68 -  A simple, typed and monad-based Result type for Python.
@@ -135,7 +135,7 @@
 
 #### Immutable / persistent data structures
 
-- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★1939 - "Persistent/Immutable/Functional data structures for Python".
+- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★1940 - "Persistent/Immutable/Functional data structures for Python".
 - [Immutables](https://github.com/MagicStack/immutables) ★1085 - "An immutable mapping type for Python."
 - [Discodb](https://github.com/discoproject/discodb) ★97 - "An efficient, immutable, persistent mapping object".
 - [Funktown](https://github.com/zhemao/funktown) ★74 - "Immutable Data Structures for Python".
@@ -164,7 +164,7 @@ Note: Pattern matching is now a standard feature in [Python 3.10](https://www.py
 
 #### Lenses and declarative data manipulations
 
-- [Glom](https://github.com/mahmoud/glom) ★1777 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
+- [Glom](https://github.com/mahmoud/glom) ★1778 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
 - [python-lenses](https://github.com/ingolemo/python-lenses) ★289 - "A python lens library for manipulating deeply nested immutable structures".
 
 #### Other / specialized
