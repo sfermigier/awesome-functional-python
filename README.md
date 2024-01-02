@@ -120,6 +120,8 @@
 - [ziopy](https://github.com/miiohio/ziopy) ★69 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★34 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [pyeffects](https://github.com/vickumar1981/pyeffects) ★25 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
+- [Iter](https://github.com/MartinBernstorff/Iter) - map, filter etc. as methods on a sequence.
+- [Flupy](https://github.com/olirice/flupy) - Implements a fluent interface for operating on python iterables.
 
 
 #### Return types
