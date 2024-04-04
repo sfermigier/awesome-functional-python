@@ -78,7 +78,7 @@
 - [Final Words on Tail Calls](http://neopythonic.blogspot.com/2009/04/final-words-on-tail-calls.html) - Guido van Rossum, 2009
 - [The fate of reduce() in Python 3000](https://www.artima.com/weblogs/viewpost.jsp?thread=98196) - Guido van Rossum, 2005
 - [Best Practices for Using Functional Programming in Python ](https://www.kite.com/blog/python/functional-programming/) - Kite Blog, 2018.
-- (Dead initiative) [Why we need a Python functional programming initiative: a manifesto]([https://www.leftfile.org/](https://web.archive.org/web/20230529183919/https://www.leftfile.org/)) - Leftfile 2023
+- (Dead initiative) [Why we need a Python functional programming initiative: a manifesto](https://web.archive.org/web/20230529183919/https://www.leftfile.org/) - Leftfile 2023
 
 #### Scientific papers
 
