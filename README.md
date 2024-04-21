@@ -166,8 +166,8 @@ Note: Pattern matching is now a standard feature in [Python 3.10](https://www.py
 
 #### Other / specialized
 
-- [classes](https://github.com/dry-python/classes) ★641 - "Smart, pythonic, ad-hoc, typed polymorphism for Python."
 - [deal](https://github.com/orsinium/deal) ★690 - "Design by contract for Python with many validators support."
+- [classes](https://github.com/dry-python/classes) ★641 - "Smart, pythonic, ad-hoc, typed polymorphism for Python."
 - [chainable](https://github.com/olirice/chainable) ★186 - "Method chaining built on generators".
 - [ADT](https://github.com/jspahrsummers/adt) ★168 - Algebraic data types for Python
 - [sumtypes](https://github.com/radix/sumtypes) ★42 - "Sum Types, aka Tagged Unions, for Python".
