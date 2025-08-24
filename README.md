@@ -123,7 +123,7 @@
 - [result](https://github.com/rustedpy/result) ★1653 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
 - [Option](https://github.com/MaT1g3R/option) ★91 - Rust-like Option and Result types in Python.
 - [Meiga](https://github.com/alice-biometrics/meiga) ★78 - A simple, typed and monad-based Result type for Python.
-- [maybe](https://github.com/rustedpy/maybe) ★71 - A simple Rust like Maybe type for Python 3. Fully type annotated.
+- [maybe](https://github.com/rustedpy/maybe) ★71 - (Unmaintained) A simple Rust like Maybe type for Python 3. Fully type annotated.
 - [Safetywrap](https://github.com/mplanchard/safetywrap) ★45 - Fully typesafe, Rust-like Result and Option types for Python.
 
 #### Immutable / persistent data structures
