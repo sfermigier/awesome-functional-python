@@ -92,49 +92,49 @@
 
 #### General
 
-- [toolz](https://github.com/pytoolz/toolz) ★4823 - "A functional standard library for Python".
-- [more-itertools](https://github.com/erikrose/more-itertools) ★3839 - "More routines for operating on iterables, beyond itertools".
-- [funcy](https://github.com/suor/funcy) ★3411 - "A fancy and practical functional tools".
-- [fn.py](https://github.com/kachayev/fn.py) ★3365 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py).
-- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★2421 - "Python library for functional programming with collections in a data pipeline style".
-- [Pipe](https://github.com/JulienPalard/Pipe) ★2012 - "A Python library to use infix notation in Python".
-- [Pydash](https://github.com/dgilland/pydash) ★1369 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
-- [hask](https://github.com/billpmurphy/hask) ★865 - "Haskell language features and standard libraries in pure Python".
-- [OSlash](https://github.com/dbrattli/oslash) ★723 - "Functors, Applicatives, And Monads in Python".
-- [Expression](https://github.com/cognitedata/Expression) ★611 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
-- [Effect](https://github.com/python-effect/effect) ★374 - "Effect isolation in Python, to facilitate more purely functional code".
+- [toolz](https://github.com/pytoolz/toolz) ★5011 - "A functional standard library for Python".
+- [more-itertools](https://github.com/erikrose/more-itertools) ★3955 - "More routines for operating on iterables, beyond itertools".
+- [funcy](https://github.com/suor/funcy) ★3449 - "A fancy and practical functional tools".
+- [fn.py](https://github.com/kachayev/fn.py) ★3378 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py).
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★2467 - "Python library for functional programming with collections in a data pipeline style".
+- [Pipe](https://github.com/JulienPalard/Pipe) ★2060 - "A Python library to use infix notation in Python".
+- [Pydash](https://github.com/dgilland/pydash) ★1395 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
+- [hask](https://github.com/billpmurphy/hask) ★870 - "Haskell language features and standard libraries in pure Python".
+- [OSlash](https://github.com/dbrattli/oslash) ★731 - "Functors, Applicatives, And Monads in Python".
+- [Expression](https://github.com/cognitedata/Expression) ★672 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
+- [Effect](https://github.com/python-effect/effect) ★382 - "Effect isolation in Python, to facilitate more purely functional code".
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★292 - "A Python port of excellent javascript library underscore.js".
-- [fnc](https://github.com/dgilland/fnc) ★265 - "Functional programming in Python with generators and other utilities".
-- [PyMonad](https://github.com/jasondelaat/pymonad) ★204 - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
-- [Flupy](https://github.com/olirice/flupy) ★193 - Implements a fluent interface for operating on python iterables.
-- [pfun](https://github.com/suned/pfun) ★152 - "Pure functional programming in python".
+- [fnc](https://github.com/dgilland/fnc) ★271 - "Functional programming in Python with generators and other utilities".
+- [PyMonad](https://github.com/jasondelaat/pymonad) ★209 - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
+- [Flupy](https://github.com/olirice/flupy) ★195 - Implements a fluent interface for operating on python iterables.
+- [pfun](https://github.com/suned/pfun) ★154 - "Pure functional programming in python".
 - [Phi](https://github.com/cgarciae/phi) ★136 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
 - [pyramda](https://github.com/jackfirth/pyramda) ★126 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
-- [unpythonic](https://github.com/Technologicat/unpythonic) ★93 - "Supercharge your Python with parts of Lisp and Haskell."
-- [ziopy](https://github.com/miiohio/ziopy) ★84 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
+- [unpythonic](https://github.com/Technologicat/unpythonic) ★99 - "Supercharge your Python with parts of Lisp and Haskell."
+- [ziopy](https://github.com/miiohio/ziopy) ★85 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★35 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [Compose](https://github.com/mentalisttraceur/python-compose) ★33 - The classic compose, with all the Pythonic features.
-- [pyeffects](https://github.com/vickumar1981/pyeffects) ★32 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
+- [pyeffects](https://github.com/vickumar1981/pyeffects) ★33 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 - [Iterpy](https://github.com/MartinBernstorff/Iterpy) ★10 - map, filter etc. as methods on a sequence.
 
 #### Return types
 
-- [returns](https://github.com/dry-python/returns) ★3862 - "Make your functions return something meaningful, typed, and safe!"
-- [result](https://github.com/rustedpy/result) ★1653 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
-- [Option](https://github.com/MaT1g3R/option) ★91 - Rust-like Option and Result types in Python.
-- [Meiga](https://github.com/alice-biometrics/meiga) ★78 - A simple, typed and monad-based Result type for Python.
-- [maybe](https://github.com/rustedpy/maybe) ★71 - (Unmaintained) A simple Rust like Maybe type for Python 3. Fully type annotated.
-- [Safetywrap](https://github.com/mplanchard/safetywrap) ★45 - Fully typesafe, Rust-like Result and Option types for Python.
+- [returns](https://github.com/dry-python/returns) ★4049 - "Make your functions return something meaningful, typed, and safe!"
+- [result](https://github.com/rustedpy/result) ★1675 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
+- [Option](https://github.com/MaT1g3R/option) ★97 - Rust-like Option and Result types in Python.
+- [Meiga](https://github.com/alice-biometrics/meiga) ★80 - A simple, typed and monad-based Result type for Python.
+- [maybe](https://github.com/rustedpy/maybe) ★69 - (Unmaintained) A simple Rust like Maybe type for Python 3. Fully type annotated.
+- [Safetywrap](https://github.com/mplanchard/safetywrap) ★46 - Fully typesafe, Rust-like Result and Option types for Python.
 
 #### Immutable / persistent data structures
 
-- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★2071 - "Persistent/Immutable/Functional data structures for Python".
-- [Immutables](https://github.com/MagicStack/immutables) ★1144 - "An immutable mapping type for Python."
+- [Pyrsistent](https://github.com/tobgu/pyrsistent) ★2112 - "Persistent/Immutable/Functional data structures for Python".
+- [Immutables](https://github.com/MagicStack/immutables) ★1176 - "An immutable mapping type for Python."
 
 Dead projects:
 
 - [Discodb](https://github.com/discoproject/discodb) ★98 - "An efficient, immutable, persistent mapping object".
-- [Funktown](https://github.com/zhemao/funktown) ★75 - "Immutable Data Structures for Python".
+- [Funktown](https://github.com/zhemao/funktown) ★76 - "Immutable Data Structures for Python".
 - [Amino](https://github.com/tek/amino) ★36 - "functional data structures and type classes".
 - [Pysistence](https://pythonhosted.org/pysistence/) - "Pysistence is a project that seeks to make functional programming in python easier".
 
@@ -142,36 +142,36 @@ Dead projects:
 
 Note: Pattern matching is now a standard feature in [Python 3.10](https://www.python.org/dev/peps/pep-0636/).
 
-- [pampy](https://github.com/santinic/pampy) ★3524 - "Pampy: The Pattern Matching for Python you always dreamed of."
-- [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ★161 - "Python pattern matching like functional languages."
+- [pampy](https://github.com/santinic/pampy) ★3526 - "Pampy: The Pattern Matching for Python you always dreamed of."
+- [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ★160 - "Python pattern matching like functional languages."
 - [patmat](https://github.com/admk/patmat) ★29 - "Functional-style recursive pattern matching in Python. Crazy stuff."
-- [apm](https://github.com/scravy/awesome-pattern-matching) ★107 - "Pattern Matching for Python 3.8+ in a simple, yet powerful, extensible manner."
+- [apm](https://github.com/scravy/awesome-pattern-matching) ★110 - "Pattern Matching for Python 3.8+ in a simple, yet powerful, extensible manner."
 
 #### Tranducers
 
 (Both projects are dead).
 
-- [Tranducers-Python](https://github.com/cognitect-labs/transducers-python) ★201 - "Transducers are composable algorithmic transformations".
-- [Transducers](https://github.com/sixty-north/python-transducers) ★56 - "This is a port of the transducer concept from Clojure to Python, with an emphasis on providing as Pythonic as interpretation of transducers as possible, rather than reproducing Clojurisms more literally".
+- [Tranducers-Python](https://github.com/cognitect-labs/transducers-python) ★203 - "Transducers are composable algorithmic transformations".
+- [Transducers](https://github.com/sixty-north/python-transducers) ★58 - "This is a port of the transducer concept from Clojure to Python, with an emphasis on providing as Pythonic as interpretation of transducers as possible, rather than reproducing Clojurisms more literally".
 
 #### Support for reactive style
 
-- [RxPy](https://github.com/ReactiveX/RxPY) ★4880 - "Reactive Extensions for Python".
+- [RxPy](https://github.com/ReactiveX/RxPY) ★4940 - "Reactive Extensions for Python".
 - [broqer](https://github.com/semiversus/python-broqer) ★74 - "Library to operate with continuous streams of data in a reactive style"
 - [sodium-python](https://github.com/mode89/sodium-python) ★4 - "Python implementation of Sodium - Functional Reactive Programming (FRP) Library"
 
 #### Lenses and declarative data manipulations
 
-- [Glom](https://github.com/mahmoud/glom) ★1976 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
-- [python-lenses](https://github.com/ingolemo/python-lenses) ★320 - "A python lens library for manipulating deeply nested immutable structures".
+- [Glom](https://github.com/mahmoud/glom) ★2062 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
+- [python-lenses](https://github.com/ingolemo/python-lenses) ★325 - "A python lens library for manipulating deeply nested immutable structures".
 
 #### Other / specialized
 
-- [deal](https://github.com/orsinium/deal) ★780 - "Design by contract for Python with many validators support."
-- [classes](https://github.com/dry-python/classes) ★700 - "Smart, pythonic, ad-hoc, typed polymorphism for Python."
-- [chainable](https://github.com/olirice/chainable) ★193 - "Method chaining built on generators".
-- [ADT](https://github.com/jspahrsummers/adt) ★173 - Algebraic data types for Python
-- [sumtypes](https://github.com/radix/sumtypes) ★43 - "Sum Types, aka Tagged Unions, for Python".
+- [deal](https://github.com/orsinium/deal) ★825 - "Design by contract for Python with many validators support."
+- [classes](https://github.com/dry-python/classes) ★716 - "Smart, pythonic, ad-hoc, typed polymorphism for Python."
+- [chainable](https://github.com/olirice/chainable) ★195 - "Method chaining built on generators".
+- [ADT](https://github.com/jspahrsummers/adt) ★172 - Algebraic data types for Python
+- [sumtypes](https://github.com/radix/sumtypes) ★44 - "Sum Types, aka Tagged Unions, for Python".
 - [python-mini-lambda](https://github.com/smarie/python-mini-lambda) ★14 - "Simple Lambda functions without lambda x: and with string conversion capability"
 - [slist](https://github.com/thejaminator/slist) ★13 - "A drop-in replacement for the python mutable list. But with much more methods for typesafe method chaining."
 - [Orinoco](https://github.com/paysure/orinoco) ★11 - "Functional composable pipelines allowing clean separation of the business logic and its implementation"
@@ -183,18 +183,18 @@ Functional programming languages that are not Python but are related to the Pyth
 
 #### Active languages
 
-- [Hy](https://github.com/hylang/hy) ★5201 - "A dialect of Lisp that's embedded in Python".
-- [Coconut](https://github.com/evhub/coconut) ★4157 - "Simple, elegant, Pythonic functional programming".
-- [Basilisp](https://github.com/basilisp-lang/basilisp) ★346 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
+- [Hy](https://github.com/hylang/hy) ★5265 - "A dialect of Lisp that's embedded in Python".
+- [Coconut](https://github.com/evhub/coconut) ★4245 - "Simple, elegant, Pythonic functional programming".
+- [Basilisp](https://github.com/basilisp-lang/basilisp) ★386 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
 #### Dead languages
 
 - [pixie](https://github.com/pixie-lang/pixie) ★2352 - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
 - [Mochi](https://github.com/i2y/mochi) ★913 - "A dynamically typed programming language for functional programming and actor-style programming.".
-- [dg (aka dogelang)](https://github.com/pyos/dg) ★577 - "A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3."
-- [Pycket](https://github.com/pycket/pycket) ★260 - "A rudimentary Racket implementation using RPython".
+- [dg (aka dogelang)](https://github.com/pyos/dg) ★578 - "A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3."
+- [Pycket](https://github.com/pycket/pycket) ★266 - "A rudimentary Racket implementation using RPython".
 - [Tydy](https://github.com/cyrus-/tydy) ★52 - "Tydy is a statically typed, functional-first programming language in the ML tradition. tydy is an implementation of Tydy as a Python library."
-- [Arza](https://github.com/gloryofrobots/arza) ★5 - "Arza is a functional programming language that compiles to Python. It is a statically typed language with type inference and type classes."
+- [Arza](https://github.com/gloryofrobots/arza) ★4 - "Arza is a functional programming language that compiles to Python. It is a statically typed language with type inference and type classes."
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) and [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html) - a couple of famous articles by Peter Norvig.
 
 [More languages that compile to Python](https://github.com/vindarel/languages-that-compile-to-python).
