@@ -115,6 +115,7 @@
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★35 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [Compose](https://github.com/mentalisttraceur/python-compose) ★33 - The classic compose, with all the Pythonic features.
 - [pyeffects](https://github.com/vickumar1981/pyeffects) ★33 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
+- [pyochain](https://github.com/OutSquareCapital/pyochain) ★20 - "Iterator, Result and Option written in Rust, for Python"
 - [Iterpy](https://github.com/MartinBernstorff/Iterpy) ★10 - map, filter etc. as methods on a sequence.
 
 #### Return types
