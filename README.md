@@ -117,6 +117,7 @@
 - [pyeffects](https://github.com/vickumar1981/pyeffects) ★33 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 - [pyochain](https://github.com/OutSquareCapital/pyochain) ★20 - "Iterator, Result and Option written in Rust, for Python"
 - [Iterpy](https://github.com/MartinBernstorff/Iterpy) ★10 - map, filter etc. as methods on a sequence.
+- [enumerio](https://github.com/samedit66/enumerio) ★1 - Enum and Map from Elixir programming language brought into Python.
 
 #### Return types
 
