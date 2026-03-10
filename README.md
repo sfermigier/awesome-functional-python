@@ -93,30 +93,29 @@
 #### General
 
 - [toolz](https://github.com/pytoolz/toolz) ★5011 - "A functional standard library for Python".
-- [more-itertools](https://github.com/erikrose/more-itertools) ★3955 - "More routines for operating on iterables, beyond itertools".
-- [funcy](https://github.com/suor/funcy) ★3449 - "A fancy and practical functional tools".
-- [fn.py](https://github.com/kachayev/fn.py) ★3378 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py).
-- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★2467 - "Python library for functional programming with collections in a data pipeline style".
-- [Pipe](https://github.com/JulienPalard/Pipe) ★2060 - "A Python library to use infix notation in Python".
-- [Pydash](https://github.com/dgilland/pydash) ★1395 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
-- [hask](https://github.com/billpmurphy/hask) ★870 - "Haskell language features and standard libraries in pure Python".
-- [OSlash](https://github.com/dbrattli/oslash) ★731 - "Functors, Applicatives, And Monads in Python".
-- [Expression](https://github.com/cognitedata/Expression) ★672 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
-- [Effect](https://github.com/python-effect/effect) ★382 - "Effect isolation in Python, to facilitate more purely functional code".
+- [more-itertools](https://github.com/erikrose/more-itertools) ★4040 - "More routines for operating on iterables, beyond itertools".
+- [funcy](https://github.com/suor/funcy) ★3500 - "A fancy and practical functional tools".
+- [fn.py](https://github.com/kachayev/fn.py) ★3381 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py).
+- [PyFunctional](https://github.com/EntilZha/PyFunctional) ★2491 - "Python library for functional programming with collections in a data pipeline style".
+- [Pipe](https://github.com/JulienPalard/Pipe) ★2096 - "A Python library to use infix notation in Python".
+- [Pydash](https://github.com/dgilland/pydash) ★1441 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
+- [hask](https://github.com/billpmurphy/hask) ★876 - "Haskell language features and standard libraries in pure Python".
+- [OSlash](https://github.com/dbrattli/oslash) ★748 - "Functors, Applicatives, And Monads in Python".
+- [Expression](https://github.com/cognitedata/Expression) ★737 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
+- [Effect](https://github.com/python-effect/effect) ★384 - "Effect isolation in Python, to facilitate more purely functional code".
 - [Underscore.py](https://github.com/serkanyersen/underscore.py) ★292 - "A Python port of excellent javascript library underscore.js".
-- [fnc](https://github.com/dgilland/fnc) ★271 - "Functional programming in Python with generators and other utilities".
-- [PyMonad](https://github.com/jasondelaat/pymonad) ★209 - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
-- [Flupy](https://github.com/olirice/flupy) ★195 - Implements a fluent interface for operating on python iterables.
-- [pfun](https://github.com/suned/pfun) ★154 - "Pure functional programming in python".
+- [fnc](https://github.com/dgilland/fnc) ★278 - "Functional programming in Python with generators and other utilities".
+- [PyMonad](https://github.com/jasondelaat/pymonad) ★210 - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
+- [Flupy](https://github.com/olirice/flupy) ★196 - Implements a fluent interface for operating on python iterables.
+- [pfun](https://github.com/suned/pfun) ★155 - "Pure functional programming in python".
 - [Phi](https://github.com/cgarciae/phi) ★136 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
-- [pyramda](https://github.com/jackfirth/pyramda) ★126 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
-- [unpythonic](https://github.com/Technologicat/unpythonic) ★99 - "Supercharge your Python with parts of Lisp and Haskell."
+- [unpythonic](https://github.com/Technologicat/unpythonic) ★101 - "Supercharge your Python with parts of Lisp and Haskell."
 - [ziopy](https://github.com/miiohio/ziopy) ★85 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
-- [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★35 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
+- [pyochain](https://github.com/OutSquareCapital/pyochain) ★40 - "Iterator, Result and Option written in Rust, for Python"
+- [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
+- [pyeffects](https://github.com/vickumar1981/pyeffects) ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 - [Compose](https://github.com/mentalisttraceur/python-compose) ★33 - The classic compose, with all the Pythonic features.
-- [pyeffects](https://github.com/vickumar1981/pyeffects) ★33 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
-- [pyochain](https://github.com/OutSquareCapital/pyochain) ★20 - "Iterator, Result and Option written in Rust, for Python"
-- [Iterpy](https://github.com/MartinBernstorff/Iterpy) ★10 - map, filter etc. as methods on a sequence.
+- [Iterpy](https://github.com/MartinBernstorff/Iterpy) ★11 - map, filter etc. as methods on a sequence.
 - [enumerio](https://github.com/samedit66/enumerio) ★1 - Enum and Map from Elixir programming language brought into Python.
 
 #### Return types
@@ -135,6 +134,7 @@
 
 Dead projects:
 
+- [pyramda](https://github.com/jackfirth/pyramda) ★126 - "Python package supporting heavy functional programming through currying. Translation of the Ramda library from javascript to python".
 - [Discodb](https://github.com/discoproject/discodb) ★98 - "An efficient, immutable, persistent mapping object".
 - [Funktown](https://github.com/zhemao/funktown) ★76 - "Immutable Data Structures for Python".
 - [Amino](https://github.com/tek/amino) ★36 - "functional data structures and type classes".
