@@ -118,6 +118,7 @@
 - [pyochain](https://github.com/OutSquareCapital/pyochain) ★20 - "Iterator, Result and Option written in Rust, for Python"
 - [Iterpy](https://github.com/MartinBernstorff/Iterpy) ★10 - map, filter etc. as methods on a sequence.
 - [enumerio](https://github.com/samedit66/enumerio) ★1 - Enum and Map from Elixir programming language brought into Python.
+- [katharos](https://github.com/kamalfarahani/katharos) ★13 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
 
 #### Return types
 
