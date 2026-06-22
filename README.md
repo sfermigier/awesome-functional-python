@@ -111,7 +111,7 @@
 - [Phi](https://github.com/cgarciae/phi) ★136 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
 - [unpythonic](https://github.com/Technologicat/unpythonic) ★101 - "Supercharge your Python with parts of Lisp and Haskell."
 - [ziopy](https://github.com/miiohio/ziopy) ★85 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
-- [pyochain](https://github.com/OutSquareCapital/pyochain) ★40 - "Iterator, Result and Option written in Rust, for Python"
+- [pyochain](https://github.com/OutSquareCapital/pyochain) ★59 - "Iterator, Result and Option written in Rust, for Python"
 - [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 - [pyeffects](https://github.com/vickumar1981/pyeffects) ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 - [Compose](https://github.com/mentalisttraceur/python-compose) ★33 - The classic compose, with all the Pythonic features.
